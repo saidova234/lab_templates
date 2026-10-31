@@ -5,7 +5,7 @@
 
 
 template <typename T>
-class Array {
+class Array 
 public:
     // ======================== Constructors ========================
     Array();
